@@ -1,0 +1,18 @@
+research_task:
+  description: >
+    Conduct a comprehensive web search to gather the most recent and relevant information on the topic provided {topic}. Utilize advanced search tools such as Serper API, Tavily API, and Brave API to ensure the information is from authoritative sources. Focus on extracting key points, statistics, and insights that will form the foundation of a high-quality article. Ensure all gathered information is factually accurate and up-to-date, considering the current year is 2025.
+  expected_output: >
+    A list with 10 bullet points of the most relevant information about the given topic {topic}, including key points, statistics, and insights, all properly sourced and validated.
+  agent: researcher
+
+reporting_task:
+  description: >
+    Using the information provided by the Research Agent, craft a well-structured and engaging article on the given topic. Ensure the article has clear headings, concise language, and a logical flow that makes complex information easy to understand. Aim to produce high-quality content that is both informative and enjoyable to read. Include an introduction, body sections with subheadings, and a conclusion that summarizes the key points.
+  expected_output: >
+    A fully fledged article with the main topics, each with a full section of information. Formatted as markdown without '```'.
+  agent: reporting_analyst
+
+
+uploader_task:
+  description: > 
+    
