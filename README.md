@@ -22,7 +22,7 @@ An AI-powered system that automates the process of researching, writing, and upl
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/achuajays/Tech-Articles.git
    cd github_article_creator
    ```
 
