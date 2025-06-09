@@ -11,7 +11,7 @@ An AI-powered system that automates the process of researching, writing, and upl
 - **Robust Error Handling** - Smooth operation with comprehensive debugging support
 
 ## Quick Start
-
+![GitHub Article Creator Workflow](images/1.png)
 ### Prerequisites
 
 - Python 3.8 or higher
@@ -80,7 +80,7 @@ The system will:
 3. Upload it to your GitHub repository
 
 ## Project Structure
-
+![GitHub Article Creator Workflow](images/2.png)
 ```
 github_article_creator/
 ├── README.md
