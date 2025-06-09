@@ -1,5 +1,5 @@
 # GitHub Article Creator
-![images\image.png](image.png)
+![GitHub Article Creator Workflow](images/image.png)
 An AI-powered system that automates the process of researching, writing, and uploading technical articles to GitHub repositories. This project uses CrewAI agents to streamline content creation, ensuring high-quality, well-researched, and properly formatted articles.
 
 ## Features
